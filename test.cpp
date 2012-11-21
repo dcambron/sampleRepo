@@ -5,7 +5,10 @@ using namespace std;
 
 int main()
 {
+int x;
 
-cout << " test";
+cout << " mother fucker";
+
+cin >>x;
 
 }
