@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-int x;
+char x;
 
-cout << " mother fucker";
+cout << "enter a char";
 
 cin >>x;
 
