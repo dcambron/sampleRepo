@@ -1,3 +1,4 @@
+//Written by john broadbent
 
 #include <iostream>
 
@@ -10,6 +11,5 @@ char x;
 cout << "enter a char";
 
 cin >>x;
-cout << "jimmy is here";
 
 }
